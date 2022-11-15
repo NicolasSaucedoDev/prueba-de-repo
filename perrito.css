@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.cartita {
+  background-color: blue;
+}
+
+
+/* 
+.carousel {
+  width: 50%;
+  margin: 0 auto;
+  background-color: yellowgreen;
+}
+
+.carousel-item img {
+  margin: 0 auto;
+  display: block;
+} */
